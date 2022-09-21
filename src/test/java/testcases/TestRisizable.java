@@ -25,7 +25,7 @@ public class TestRisizable {
         WebElement frame = driver.findElement(By.xpath("//*[@id=\"content\"]/iframe"));
         driver.switchTo().frame(frame);
 
-       WebElement handler = driver.findElement(By.xpath("//*[@id='resizable']/div[3]"));
+        WebElement handler = driver.findElement(By.xpath("//*[@id='resizable']/div[3]"));
 
 
         new Actions(driver).dragAndDropBy(handler, 150, 73).perform();
