@@ -1,0 +1,7 @@
+INFO    2022-09-21 17:37:03,739 [main] testcases.TestProperties  - OR Properties loaded
+INFO    2022-09-21 17:37:03,740 [main] testcases.TestProperties  - Config Properties loaded
+INFO    2022-09-21 17:37:05,565 [main] testcases.TestProperties  - Chrome Browser Launched
+INFO    2022-09-21 17:37:06,348 [main] testcases.TestProperties  - Navigated to : http://gmail.com
+INFO    2022-09-21 17:37:06,512 [main] testcases.TestProperties  - keys sent : username_ID = fouad
+INFO    2022-09-21 17:37:06,618 [main] testcases.TestProperties  - Clicking on an Element: nextBtn_XPATH
+INFO    2022-09-21 17:37:06,618 [main] testcases.TestProperties  - Execution Completed
